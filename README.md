@@ -3,7 +3,7 @@
 Animated GIF (that loops) for Garmin watches, packaged in a watchface.  
  Currently only has a looping image and a time field at the bottom.  
  If you're interested in changing the image or text around feel free to pull the repo, modify some stuff and build it.  
- ![](preview/aquacat.gif)  
+ ![](preview/aquacat.gif){ width=50% }  
 To do:
 
 - Steps
@@ -15,7 +15,7 @@ To do:
 ---
 
 Garmin Documentation used:  
-https://developer.garmin.com/connect-iq/api-docs/index.html
+https://developer.garmin.com/connect-iq/api-docs/index.html  
 API version 4.1.x
 
 Some interesting notes to keep track of as I worked on this:
