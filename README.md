@@ -1,13 +1,14 @@
 # aqua_cat_watchface
 
 Animated GIF (that loops) for Garmin watches, packaged in a watchface.  
- Currently only has a looping image and a time field at the bottom.  
- If you're interested in changing the image or text around feel free to pull the repo, modify some stuff and build it.  
+ Currently only has a looping image and a time field at the bottom.
+
  <img src="preview/aquacat.gif" width="50%">  
 To do:
 
 - Steps
 - Battery
+- Probably should have a modular text/string display rather than hardcoding it all?
 
   To install, just move the non-test PRG file into GARMIN/GARMIN/APPS when plugging your watch into your computer.  
   Sorry but I'll clean up the other files some day haha
@@ -16,7 +17,8 @@ To do:
 
 Garmin Documentation used:  
 https://developer.garmin.com/connect-iq/api-docs/index.html  
-API version 4.1.x
+API version 4.1.x, only for Venu 2s right now.  
+If you're interested in other image/text/platforms feel free to pull the repo, modify it, and build it yourself.
 
 Some interesting notes to keep track of as I worked on this:
 
