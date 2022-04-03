@@ -3,7 +3,7 @@
 Animated GIF (that loops) for Garmin watches, packaged in a watchface.  
  Currently only has a looping image and a time field at the bottom.  
  If you're interested in changing the image or text around feel free to pull the repo, modify some stuff and build it.  
- ![](preview/aquacat.gif){ width=50% }  
+ <img src="preview/aquacat.gif" width="50%">  
 To do:
 
 - Steps
